@@ -11,3 +11,8 @@
     color: lightgray;
     font-style: italic;
 }
+
+nav a {
+    font-family: 'Roboto Slab', serif;
+    color: aqua;
+}
